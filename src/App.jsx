@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       <div className="advice-container">
-        <h1>"{advice}" - AJ THE WADEH</h1>
+        <h1>"{advice}" - Wadeh</h1>
       </div>
       <div className="btn-container">
         <button onClick={getAdvice}>Get Advice</button>
