@@ -16,6 +16,8 @@ body {
 
 @media (min-width: 768px) {
   .advice-container {
+    height: auto;
+    width: 80%;
     font-size: 10px;
   }
 }
