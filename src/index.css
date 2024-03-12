@@ -12,6 +12,13 @@ body {
     #6c5b7b,
     #355c7d
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-size: 18px;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 10px;
+  }
 }
 
 .advice-container {
@@ -22,11 +29,12 @@ body {
   background-color: white;
 
   max-width: 70%;
-  height: auto;
+  height: 20vh;
 
   padding: 0.2rem;
   border: 2px solid black;
   border-radius: 0.8rem;
+
   text-align: center;
   margin: 0 auto;
   margin-top: 10rem;
