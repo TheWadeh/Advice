@@ -14,7 +14,7 @@ body {
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
   .advice-container {
     height: auto;
     width: 80%;
