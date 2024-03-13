@@ -16,6 +16,7 @@ function App() {
   }, []);
   return (
     <div>
+      <h1 className="headinging">The quotes are just random 😎</h1>
       <div className="advice-container">
         <h1>"{advice}" - Wadeh</h1>
       </div>
